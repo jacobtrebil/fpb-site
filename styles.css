@@ -10,7 +10,7 @@ body {
 
 header {
     border-bottom: solid 1px rgb(204, 204, 204);
-    padding: 20px 40px 25px 40px;
+    padding: 10px 40px 15px 40px;
     margin: 0px 0px 0px 0px;
 }
 
@@ -80,11 +80,11 @@ button:hover {
 }
 
 #navButton {
-    margin: 5px 0px 0px 0px;
+    margin: 12px 0px 0px 0px;
 }
 
 #navLogin {
-    margin: 5px 10px 0px 20px;
+    margin: 12px 10px 0px 20px;
     font-size: 16px;
 }
 
@@ -98,10 +98,10 @@ button:hover {
 }
 
 #logo {
-    width: 40px;
-    height: 40px;
-    padding: 10px 0px 0px 0px;
-    margin: 0px;
+    width: 60px;
+    height: 60px;
+    padding: 0px 0px 0px 0px;
+    margin: 5px 0px 0px 0px;
 }
 
 .footer {
