@@ -147,6 +147,11 @@ button:hover {
         margin: 0px auto 0px auto;
     }
 
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
     h1 {
         padding: 12% 0px 0px 0px;
     }
