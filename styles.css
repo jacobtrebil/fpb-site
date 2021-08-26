@@ -139,6 +139,19 @@ button:hover {
     vertical-align: bottom;
 }
 
-/*     border-top: 1px solid rgb(204, 204, 204);
-    border-left: 1px solid rgb(204, 204, 204);
-    border-right: 1px solid rgb(204, 204, 204); */
+@media screen and (max-width: 1206px) {
+    .headlineBlock {
+        display: block;
+        position: relative;
+        width: 100%;
+        margin: 0px auto 0px auto;
+    }
+
+    h1 {
+        padding: 12% 0px 0px 0px;
+    }
+    
+    .imageBlock {
+        display: none;
+    }
+}
