@@ -150,10 +150,12 @@ button:hover {
     body {
         max-width: 100%;
         overflow-x: hidden;
+        width: 100%;
     }
 
     h1 {
         padding: 12% 0px 0px 0px;
+        font-size: 62px;
     }
     
     .imageBlock {
