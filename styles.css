@@ -98,7 +98,7 @@ button:hover {
 }
 
 #logo {
-    width: 60px;
+    width: 180px;
     height: 60px;
     padding: 0px 0px 0px 0px;
     margin: 5px 0px 0px 0px;
@@ -149,8 +149,6 @@ button:hover {
 
     body {
         max-width: 100%;
-        overflow-x: hidden;
-        width: 100%;
     }
 
     h1 {
@@ -166,5 +164,10 @@ button:hover {
 @media screen and (max-width: 500px) {
     h1 {
         font-size: 52px;
+    }
+
+    body {
+        overflow-x: hidden;
+        width: 100%;
     }
 }
