@@ -155,10 +155,16 @@ button:hover {
 
     h1 {
         padding: 12% 0px 0px 0px;
-        font-size: 62px;
+        font-size: 82px;
     }
     
     .imageBlock {
         display: none;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    h1 {
+        font-size: 52px;
     }
 }
