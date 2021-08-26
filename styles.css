@@ -10,7 +10,7 @@ body {
 
 header {
     border-bottom: solid 1px rgb(204, 204, 204);
-    padding: 12px 40px 17px 40px;
+    padding: 12px 40px 12px 40px;
     margin: 0px 0px 0px 0px;
 }
 
@@ -101,7 +101,7 @@ button:hover {
     width: 180px;
     height: 60px;
     padding: 0px 0px 0px 0px;
-    margin: 5px 0px 0px 0px;
+    margin: 10px 0px 0px 0px;
 }
 
 .footer {
