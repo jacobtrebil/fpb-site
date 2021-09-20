@@ -170,4 +170,18 @@ button:hover {
         overflow-x: hidden;
         width: 100%;
     }
+    .navLogin {
+        font-size: 12px;
+    }
+    .navButton {
+        font-size: 12px;
+    }
+
+    #logo {
+        height: 50px;
+        width: 150px;
+    }
+    header {
+        padding: 12px 10px 12px 10px;
+    }
 }
